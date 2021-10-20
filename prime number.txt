@@ -17,4 +17,4 @@ public class Main {
     else
       System.out.println(num + " is not..... a prime number");
   }
-} im adding my new file as primmmmme numberssss
+} im adding my new file as primmmmme numberssssssssss
